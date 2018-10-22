@@ -1,0 +1,234 @@
+.page-article
+{	position: relative;
+	margin:0 auto;
+	width: 1024px;
+	height:560px;
+		
+}
+.page-article .title
+{	margin: auto;
+	width: 100%;
+	height: 12%;
+
+}
+.page-article .title h1
+{	padding-top: 28px;	
+	text-align: center;
+
+}
+.page-article  .iteam
+{	margin:auto;
+	width: 20%;
+	height: 1%;
+	background: yellow;
+}
+.page-article  .menu
+{
+	margin: auto;
+	width: 100%;
+	height: 12%;
+	
+}
+.page-article img
+{
+	width: 100%;
+	height: 100%;
+}
+.page-article  .menu ul
+{	
+	margin-left: 100px;
+	margin-top: 40px;
+	float: left;
+	display: block;
+}
+.page-article  .menu ul li
+{	
+	display: block;
+	display: inline-block;
+	padding-left: 30px;
+}
+.page-article  .menu ul li a
+{	text-decoration: none;
+	color: yellow;	
+	font-weight: bold;
+	font-size: 15px;
+}
+.page-article  .menu ul li a:hover
+{
+	background: black;
+}
+.page-article .article-top
+{
+	width: 100%;
+	height: 36.5%;
+		
+	margin-bottom: 1%;
+}
+.page-article .article-top .iteam1
+{
+	float: left;
+	margin-top: -0.6%;
+	width: 24.3%;
+	height:100%;
+	background: #fff;
+	margin-right: 1%;
+}
+.page-article .article-top .iteam2
+{
+	float: left;
+	margin-top: -0.6%;
+	width: 24.3%;
+	height:100%;
+	background: #fff;
+	margin-right: 1%;
+}
+.page-article .article-top .iteam3
+{
+	float: left;
+	margin-top: -0.6%;
+	width: 24.2%;
+	height:100%;
+	background: #fff;
+	margin-right: 1%;
+}
+.page-article .article-top .iteam4
+{
+	float: left;
+	margin-top: -0.6%;
+	width: 24.2%;
+	height:100%;
+	background: #fff;	
+}
+.page-article .article-bottom
+{
+	width: 100%;
+	height: 36.5%;
+}
+.page-article .article-bottom .iteam1
+{
+	float: left;
+	width: 24.3%;
+	height:100%;
+	background: #fff;
+	margin-right: 1%;
+}
+.page-article .article-bottom .iteam2
+{
+	float: left;
+	width: 24.3%;
+	height:100%;
+	background: #fff;
+	margin-right: 1%;
+}
+.page-article .article-bottom .iteam3
+{
+	float: left;
+	
+	width: 24.2%;
+	height:100%;
+	background: #fff;
+	margin-right: 1%;
+}
+.page-article .article-bottom .iteam4
+{
+	float: left;
+	
+	width: 24.2%;
+	height:100%;
+	background: #fff;
+}
+.page-article .article-top .overlow
+{	
+	position: absolute;
+	transition-property: height;
+	opacity: 0.5;
+	top: 49%;
+	width: 250px;
+	height:70px;
+	background: blue;
+}
+.page-article .article-bottom .overlow
+{	
+	position: absolute;
+	transition-property: height;
+	opacity: 0.5;
+	top: 87.2%;
+	width: 250px;
+	height:70px;
+	background: blue;
+}
+.page-article .overlow p
+{
+	text-align: center;
+	color: #ffff;
+}
+.article-top .iteam1:hover .overlow
+{	transition: 1s;
+	opacity: 1;
+	top:25%;
+	height: 205px;
+	background: red;
+	opacity: 0.7;
+}
+.article-top .iteam2:hover .overlow
+{	transition: 1s;
+	opacity: 1;
+	top:25%;
+	height: 205px;
+	background: red;
+	opacity: 0.7;
+}
+.article-top .iteam3:hover .overlow
+{	transition: 1s;
+	opacity: 1;
+	top:25%;
+	height: 205px;
+	background: red;
+	opacity: 0.7;
+}
+.article-top .iteam4:hover .overlow
+{	transition: 1s;
+	opacity: 1;
+	top:25%;
+	height: 205px;
+	background: red;
+	opacity: 0.7;
+}
+.iteam1:hover  .overlow
+{
+	transition: 1s;
+	opacity: 1;
+	top:63.2%;
+	height: 205px;
+	background: red;
+	opacity: 0.7;
+}
+.iteam2:hover  .overlow
+{
+	transition: 1s;
+	opacity: 1;
+	top:63.2%;
+	height: 205px;
+	background: red;
+	opacity: 0.7;
+}
+.iteam3:hover  .overlow
+{
+	transition: 1s;
+	opacity: 1;
+	top:63.2%;
+	height: 205px;
+	background: red;
+	opacity: 0.7;
+}
+.iteam4:hover  .overlow
+{
+	transition: 1s;
+	opacity: 1;
+	top:63.2%;
+	height: 205px;
+	background: red;
+	opacity: 0.7;
+}
+
+
