@@ -1,0 +1,72 @@
+.khung{
+	margin: 0 auto;
+	width: 925px;
+	height: 99px;
+}
+.IMG1{
+	float: left;
+	width: 113px;
+	height: 99px;
+}
+.NOX1{
+	float: left;
+	width: 812px;
+	height: 48px;
+	background: #fff;
+
+}
+.NOX1 .A1{
+	width: 200px;
+	height: 48px;
+	float: left;
+}
+
+.NOX1 .A1 .P{
+    margin-top: 10px;
+    margin-left: 220px;
+    line-height: 1px;
+    font-size: 13px;
+    font-family: arial;
+
+}
+.NOX1 .A1 .P .A{
+	text-decoration: none;
+	display: block;
+}
+.NOX1 .A1 .P .A:hover{
+	color: red;
+}
+.NOX2{
+	float: left;
+	width: 812px;
+	height: 48px;
+	background: #ffcc33
+
+}
+.NOX2 ul{
+	margin: 0px;
+	padding: 0px;
+}
+.NOX2 ul li{
+	display: block;
+    list-style-type: none;
+    float: left;
+    padding: 17px 25px 10px 20px;
+    text-transform: capitalize;
+    font-family: arial;
+    font-size: 16px;
+}
+.NOX2 ul li a{
+	text-decoration: none;
+	display: block;
+	color: #fff;
+}
+.NOX2 ul li a:hover{
+	color: yellow;
+}
+
+
+
+
+
+
