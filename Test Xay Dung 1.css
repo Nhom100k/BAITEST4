@@ -1,0 +1,322 @@
+.khung{
+	width: 924px;
+	height: auto;
+	margin: 0 auto;
+}
+.boxmenu{
+	margin: 0 auto;
+	width: 925px;
+	height: 99px;
+}
+.IMG1{
+	float: left;
+	width: 113px;
+	height: 99px;
+}
+.NOX1{
+	float: left;
+    width: 810px;
+    height: 50px;
+}
+.NOX1 .A1{
+	width: auto;
+	margin-left: 50px;
+	height: 48px;
+	float: left;
+}
+
+.NOX1 .A1 .P{
+    margin-top: 10px;
+    line-height: 1px;
+    font-size: 12px;
+    font-family: arial;
+
+}
+.NOX1 .A1 .P .A{
+	text-decoration: none;
+	display: block;
+}
+.NOX1 .A1 .P .A:hover{
+	color: red;
+}
+.NOX2{
+	float: left;
+	width: 812px;
+	height: 48px;
+	background: #ffcc33
+
+}
+.NOX2 ul{
+	margin: 0px;
+	padding: 0px;
+}
+.NOX2 ul li{
+    display: block;
+    list-style-type: none;
+    float: left;
+    padding: 17px 0 10px 0;
+    text-transform: capitalize;
+    font-family: arial;
+    font-size: 15px;
+    margin-left: 50px;
+}
+.NOX2 ul li a{
+	text-decoration: none;
+	display: block;
+	color: #fff;
+}
+.NOX2 ul li a:hover{
+	color: yellow;
+}
+.XAYDUNG2{
+	margin-top: -17px;
+    width: 925px;
+    padding: 0;
+    height: 350px;
+    background-image: url(http://alphacohanoi.com/profiles/alphacohanoicom/uploads/attach/thumbnail/1429958919_tim-hieu-nganh-kinh-te-xay-dung..jpg);
+    background-size: 925px 350px;
+    background-position: 0;
+    background-repeat: no-repeat;
+}
+.XAYDUNG2 .content{
+    margin-top: 100px;
+    margin-left: -100px;
+    padding: 0;
+    float: left;
+    display: block;
+    width: 480px;
+    height: 225px;
+}
+.content h2{
+	float: left;
+	margin:0;
+	font-weight: 100;
+	display: block;
+	font-size: 25px;
+	color: #f7c80c;
+	line-height: 50px;
+	font-family: arial;
+}
+.content p{
+	float: left;
+	margin: 0;
+	display: block;
+	font-size: 13px;
+	font-family: arial;
+	color: white;
+	line-height: 20px;
+}
+.content a.read{
+	margin-top: 40px;
+	float: left;
+	width: 90px;
+	height: 35px;
+	background: #f7c80c;
+	border: 1px solid white;
+	font-family: arial;
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+	line-height: 35px;
+	padding-left: 10px;
+}
+.content a.read:hover{
+	color: #f7c80c;
+	background: white;
+	border: 1px solid #f7c80c;
+}
+.XAYDUNG2 ul{
+	list-style-type: none;
+}
+.XAYDUNG2 ul li.Next{
+	display: block;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: 150px;
+    right: -875px;
+	background-image: url(https://image.flaticon.com/icons/svg/120/120893.svg);
+	background-size: 45px 45px ;
+	background-position:0;
+	background-repeat: no-repeat;
+}
+.XAYDUNG2 ul li.Prev{
+	display: block;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: 100px;
+    left: -75px;
+	background-image: url(https://image.flaticon.com/icons/svg/120/120892.svg);
+	background-size: 45px 45px ;
+	background-position:0;
+	background-repeat: no-repeat;
+}
+.page-contens
+{	margin:auto;
+	width: 925px;
+	height: 500px;
+
+}
+.page-contens .title
+{
+	margin:0 auto;
+	width: 100%;
+	height: 50px;
+}
+.page-contens .title .left
+{
+	margin:auto;
+	float: left;
+	height: 100%;
+	width: 37%;
+}
+.page-contens .title .left .text
+{	float: left;
+	width: 65%;
+	height: 100%;
+	background: yellow;
+}
+.page-contens .title .left .text h2
+{
+	float:left;
+	padding-left: 20px;
+	margin-top: 15px;
+	color: #ffff;
+}
+.page-contens .title  .right
+{	
+	margin:auto;
+	float: left;
+	width: 63%;
+	height: 100%;
+}
+.page-contens .title  .right ul
+{
+	display: block;
+	margin-left: -45px;
+	list-style-type: none;
+}
+.page-contens .title  .right ul li
+{
+	display: block;
+	display: inline-block;
+	padding-left: 15px;
+}
+.page-contens .title  .right ul li a
+{	display: block;
+	text-decoration: none;
+	color: yellow;
+	font-size: 15px;
+}
+.page-contens .title  .right ul li a:hover
+{
+	background: red;
+	transition: 1s;
+}
+.page-contens img
+{
+	width: 100%;
+	height: 100%;
+}
+.page-contens  .contens-top
+{	margin-top: 0.8%;
+	width: 100%;
+	height: 200px;
+
+}
+.page-contens  .item1
+{
+	float: left;
+	width: 30%;
+	height: 100%;
+	margin-right: 5%;
+}
+.page-contens  .item1:hover img
+{	transition-duration: 0.5s;
+	opacity: 0.5;
+}
+
+.page-contens   .item2
+{
+	float: left;
+	width: 30%;
+	height: 100%;
+	margin-right: 5%;
+}
+.page-contens  .item2:hover img
+{	transition-duration: 0.5s;
+	opacity: 0.5;
+}
+.page-contens   .item3
+{
+	float: left;
+	width: 30%;
+	height: 100%;
+		
+}
+.page-contens  .item3:hover img
+{	transition-duration: 0.5s;
+	opacity: 0.5;
+}
+.page-contens  .contens-bottom
+{
+	margin-top: 22.2px;
+	width: 100%;
+	height: 220px;
+	
+}
+
+.goto{
+	width:128px;
+	height:40px;
+	float: left;
+	margin: 20px 360px 35px 360px;
+	display: block;
+	background: #eec018;
+}
+.goto a{
+    color: white;
+    margin: 0;
+    line-height: 40px;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 12px;
+    padding-left: 28px;
+    }
+.goto:hover{
+	background: red;
+	border-radius: 50%;
+}
+.boxcuoi{
+	width: 100%;
+	float: left;
+	height:60px;
+	margin: 0;
+}
+.boxcuoi h1.hdl{
+	float: left;
+	padding-top: 19px;
+	margin: 0;
+	display: block;
+    color: #fcc82c;
+    font-family: arial;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.boxcuoi .billogo{
+	float: left;
+	margin:0;
+	margin-left: 360px;
+	width: 260px;
+	height:50px;
+}
+.boxcuoi .billogo img{
+	float: left
+	width: 30px;
+	margin:13px 16px;
+    height: 28px;
+    border-radius: 50%;
+}
+
