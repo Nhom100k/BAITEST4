@@ -1,0 +1,57 @@
+.khung{
+	width: 925px;
+	height: auto;
+	margin: 0 auto;
+}
+.goto{
+	width:128px;
+	height:40px;
+	float: left;
+	margin: 20px 360px 35px 360px;
+	display: block;
+	background: #eec018;
+}
+.goto a{
+    color: white;
+    margin: 0;
+    line-height: 40px;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 12px;
+    padding-left: 28px;
+    }
+.goto:hover{
+	background: red;
+	border-radius: 50%;
+}
+.boxcuoi{
+	width: 100%;
+	float: left;
+	height:60px;
+	margin: 0;
+}
+.boxcuoi h1.hdl{
+	float: left;
+	padding-top: 19px;
+	margin: 0;
+	display: block;
+    color: #fcc82c;
+    font-family: arial;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.boxcuoi .billogo{
+	float: left;
+	margin:0;
+	margin-left: 360px;
+	width: 260px;
+	height:50px;
+}
+.boxcuoi .billogo img{
+	float: left
+	width: 30px;
+	margin:13px 16px;
+    height: 28px;
+    border-radius: 50%;
+}
